@@ -1,0 +1,67 @@
+{
+  "User": [
+    {
+      "userName": "SAJID",
+      "userEmail": "s@gmail.com",
+      "contact": "2342342",
+      "dob": "2021-02-13",
+      "gender": "Male",
+      "category": "Computer Science",
+      "id": 63
+    },
+    {
+      "userName": "Mujahid",
+      "userEmail": "mujahid@gmail.com",
+      "contact": "3992342",
+      "dob": "2021-02-10",
+      "gender": "Male",
+      "category": "Mechanical",
+      "id": 64
+    },
+    {
+      "userName": "Fazal",
+      "userEmail": "fazal@gmail.com",
+      "contact": "2402323423",
+      "dob": "2021-02-09",
+      "gender": "Male",
+      "category": "Bs Physcis",
+      "id": 65
+    },  
+    {
+      "userName": "Khateeb",
+      "userEmail": "khateeb@gmail.com",
+      "contact": "03234143432",
+      "dob": "2021-02-20",
+      "gender": "Male",
+      "category": "Mathematic",
+      "id": 66
+    },
+    {
+      "userName": "sajid",
+      "userEmail": "skdj@gmail.com",
+      "contact": "34234234234",
+      "dob": "2021-03-11",
+      "gender": "Male",
+      "category": "Computer Science",
+      "id": 69
+    },
+    {
+      "userName": "Ibrahim",
+      "userEmail": "ibrahim@gmail.com",
+      "contact": "9831992918",
+      "dob": "2021-02-04",
+      "gender": "Male",
+      "category": "English Grammer",
+      "id": 78
+    },
+    {
+      "userName": "Muhammad Sadiq",
+      "userEmail": "sadiq@gmail.com88",
+      "contact": "9932942112",
+      "dob": "2007-07-07",
+      "gender": "Male",
+      "category": "Mathematic",
+      "id": 79
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "User": [
+      {
+        "question": "What is the full form of js?",
+        "option1": "JavaScript",
+        "option2": "Jquerry",
+        "option3": "Java",
+        "option4": "JavaScript Object Notation",
+        "right": "JavaScript",
+        "id": 1
+      }
+    ]
+}  
